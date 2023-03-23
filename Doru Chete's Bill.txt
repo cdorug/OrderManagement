@@ -1,0 +1,4 @@
+Name of client: Doru Chete
+Address: 1 Mai, nr. 5
+Ordered product: To Kill a Mockingbird, quantity: 2
+Total: 195.16, VAT included
